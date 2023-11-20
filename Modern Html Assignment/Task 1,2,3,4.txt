@@ -1,0 +1,55 @@
+﻿Modern HTML Assignment
+
+
+
+
+Question 1 List out the features of HTML5 ?
+Solution 1: Features of HTML 5: Improved multimedia support: Html 5 introduced the inbuilt multimedia support <audio> and <video> tags which allows direct use of multimedia on web page without using any plugins like Flash.
+
+
+Canvas: Html 5 introduced <canvas> tag which allows to create and manipulate dynamic graphics on webpage.
+
+
+Structural Elements: Html 5 introduced semantic tags like <header>,<nav>, <article> and <footer> etc. which provides proper structure to the webpage.
+
+
+Geolocation API: Html 5 introduced Geolocation API which helps to serve location services to web pages.
+
+
+Accessibility: Html 5 helped a lot in terms of accessibility by providing alt text to images and video.
+
+
+Local Storages: Html 5 introduced the Local storage API which downloads the data on user’s device storage to improve the performance by preventing round trips to the server.
+
+
+Question 2 What are HTML Entities? List out 5 commonly used entities ?
+Solution 2: Html entities are some symbols or characters which are not available on keyboard like copyright symbol and trade mark symbol for that we use Html entities. These are reserved character used in Html Document. Html Entities allows us to use symbols and geometric shapes and mathematical operations.Html entities are enclosed ampersand symbol (&) and semicolon(;).Html Entities are also used to write 
+
+
+5 commonly used entities are:
+
+
+&lt; used to add less than symbol(<).
+&gt; used to add greater than symbol(>).
+&copy; used to add a copyright symbol.
+&reg; used to add registered trademark symbol.
+&amp; used to add an ampersand symbol(&).
+
+
+Question 3 Define Accessibility in the context of web development. Discuss why its essential to create accesible website how it benefits different user Group?
+Solutions 3:Accescibility is very important in the context of web development. Accessibility is a practice in html that is designing and coding the content of web page in that manner which ensure that web page is easy to acces, understandable and interactive with user with diverse abilities and also to users with disablities. 
+
+
+Why its essential:
+
+
+Accessibility is essential to figure out accessibility issues and to ensure and improve the usability of website. This is also very helpful for diifferent different user group like for people not able to see and uses screen readers so with help of accesibility screen readers can easily read and understand the content and of website.
+
+
+Question 4 List any three ways which help us in improving accesibility of Html ?
+Solution 4: Three easy and common ways to make our html accesible:
+
+
+* Adding Alt text to images to provide descriptive alternate text to images in case of issues in the connectivity.
+* Adding labels to the inputs in form. Using labels in form helps user to understand what he/she has to input.
+* Using semantic tags <header> <nav> <main> <article> <footer> provides a proper structure to web pages and also helpful for screen reader and browser too understand the content of the web page.
